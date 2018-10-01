@@ -1,0 +1,1 @@
+{"data":{"site":{"siteMetadata":{"title":"Gatsby Default Starter","desc":"A new Blog"}},"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Welcome to the new Blog","date":"2018-09-26"},"html":"<h2>Hello</h2>\n<ul>\n<li>This</li>\n<li>Is</li>\n<li>A</li>\n<li>New</li>\n<li>Post</li>\n</ul>"}}]}},"pageContext":{}}
